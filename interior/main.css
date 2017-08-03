@@ -1,0 +1,72 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	Interrio - Corporate Architecture and Interior Design, Responsive Html5 Template
+Version:	1.0.0
+Assigned to:	Themeforest
+Primary use:	Interior, Exterior, Architecture, Office/Building Designer, Multipurpose  
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[Table of contents]
+
+1. Body / body
+2. Default / img
+3. Padding / .pad-top0
+4. Margin / .mar-top0
+5. Header / #main-header
+6. Slider / .slider-section
+7. About Us / .about-us-section
+8. Our Service / .service-section
+9. Mixitup / .mixi-btn
+10. Banner / .baneer-desing
+11. Price Table / .pricing-boxes
+12. testimonial / .testimony-section
+13. Team / .blog-team
+14. Blog Post / .blog-post
+15. partner / .pattern-blok
+16. Hover / .hover-section
+17. Newletter / .new-box-icon
+18. Footer / .footer-bottom-img
+19. Breadcrumb / .breadcrumb-section-box
+20. Background Image / .special-style
+21. Pagination / .pagination-box
+22. Project Page / .project-page
+23. Contact Page / .fome-box
+24. Facts / .facts-section
+25. 404 Page / .boxs-404-text
+26. Sidebar / .list
+27. Blog Griad Page / .blok-griad-section
+28. Blog List Page / .blok-list-section
+29. Blog Detieals Page / .blok-img-section
+30. Project Detieals Page / .blockquote-box
+31. Faqs Page / .faqs
+32. Accordion / .accordion
+33. Preloader / #loading
+
+-------------------------------------------------------------------*/
+/*-----------------------------------------------------------------
+[All Css Import]
+-------------------------------------------------------------------*/
+
+/*---bootstap.CSS inluad---*/
+@import url("assets/css/bootstrap.min.css");
+/*---font-awesome css inluad---*/
+@import url("assets/plugin/font-awesome/css/font-awesome.min.css");
+/*----- IconMoon Css ------- */
+@import url("assets/plugin/iconmoon/iconmoon.css");
+/*---megamenu css inluad---*/
+@import url("assets/plugin/menu-menu/css/hover-dropdown-menu.css");
+/*---slider css inluad---*/
+@import url("assets/plugin/owl-carousel-slider/css/owl.carousel.css");
+@import url("assets/plugin/owl-carousel-slider/css/owl.theme.default.css");
+/*---mixitup css inluad---*/
+@import url("assets/plugin/mixitup/css/mixitup.css");
+/*---fancyBox.css inluad---*/
+@import url("assets/plugin/fancyBox/css/jquery.fancybox.css");
+/*---style.css inluad---*/
+@import url("assets/css/style.css");
+/*---sresponsive.css inluad---*/
+@import url("assets/css/responsive.css");
+/*---color.css inluad---*/
+@import url("assets/css/color.css");

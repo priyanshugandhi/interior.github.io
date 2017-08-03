@@ -1,0 +1,410 @@
+/*
+========================================
+320 to 767 responsive css
+========================================
+*/
+
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+    .dark-version ul.top-right-icon {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .dark-version a.navbar-brand img {
+        width: 85%;
+    }
+	
+	.dark-version .navbar-collapse {
+		height: auto;
+	}
+    .navbar-nav .open .dropdown-menu {
+        padding: 0 0 0 15px;
+    }
+    .dark-version button.navbar-toggle {
+        background: white;
+        margin: 14px 0;
+    }
+    .dark-version section.slider-section .owl-theme .owl-nav.disabled + .owl-dots {
+        bottom: -5px;
+    }
+    .dark-version h3.theme-heading-wa {
+        padding-top: 0;
+    }
+    .dark-version header#main-header {
+        position: relative;
+        width: 100%;
+        float: left;
+        left: 0;
+        right: 0;
+    }
+    .dark-version .about-box {
+        padding-top: 20px;
+    }
+    .dark-version .main-slider-heading h1 {
+        font-size: 21px;
+    }
+    .dark-version .slider-section-1-text p {
+        display: none;
+    }
+    .dark-version .slider-section-1 {
+        top: 22%;
+    }
+    .dark-version .post-sec.boxxs h3 {
+        padding-top: 15px;
+    }
+    .dark-version .text-blog {
+        text-align: left;
+		font-size: 15px;
+    }
+    .dark-version .itg-button {
+        padding: 2px 15px;
+        display: inline-block;
+        font-size: 13px;
+        border: none;
+    }
+    .dark-version .mar-bottom {
+        margin-bottom: 30px;
+    }
+    .dark-version .mixi-btn a {
+        font-size: 16px;
+        margin-left: 0;
+        padding: 5px;
+    }
+    .dark-version ul.top-bar-icon {
+        margin: 0 auto;
+        display: table;
+    }
+    .dark-version ul.top-right-icon li a {
+        font-size: 14px;
+        padding: 0 8px;
+    }
+    .dark-version h1.banner-text {
+        font-size: 21px;
+        text-align: center;
+    }
+    .dark-version h1.banner-text1 {
+        font-size: 21px;
+        margin-top: 0px;
+        text-align: center;
+    }
+    .dark-version a.itg-button.banner {
+        margin: 20px auto;
+        display: table;
+        float: none;
+    }
+    .dark-version .paragraph-box {
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    .dark-version .price-btn {
+        margin-bottom: 30px;
+    }
+    .dark-version .testi-boxs {
+        padding-top: 50px;
+    }
+    .dark-version .test-text-box {
+        margin-bottom: 50px;
+    }
+    .dark-version .box-caption h3 {
+        padding-top: 0;
+    }
+    .dark-version ul.blog-tect-sec li {
+        font-size: 12px;
+        padding-right: 7px;
+    }
+    .dark-version .owl-carousel-style1 .owl-dots {
+        padding-top: 15px;
+        padding-bottom: 0px;
+    }
+    .dark-version .sing-box p {
+        font-size: 15px;
+        text-align: center;
+        padding-top: 10px;
+    }
+    .dark-version ul.new-box-icon {
+        text-align: center;
+        padding-top: 10px;
+    }
+    .dark-version .sing-box h3 {
+        text-align: center;
+    }
+    .dark-version .footer-box {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .dark-version a.samll-head {
+        padding-bottom: 10px;
+    }
+    .dark-version .navbar.navbar-bg-dark .navbar-nav > li > a,
+    .dropdown-menu li a {
+        color: #fff;
+        font-weight: normal;
+        font-size: 14px;
+        letter-spacing: 1px;
+        padding: 10px 15px;
+        background: transparent;
+    }
+    .dark-version .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #fff;
+    }
+    .dark-version .heading-box {
+        padding-top: 64px;
+        text-align: center;
+    }
+    .dark-version .reviews-container .review-box {
+        padding-left: 0;
+    }
+    .dark-version .reviews-container .rev-content {
+        padding: 0px 0px 0px 0px;
+        text-align: center;
+    }
+    .dark-version .rev-content p {
+        text-align: center;
+    }
+    .dark-version p.star-blog {
+        margin: 0 auto;
+        text-align: center;
+    }
+    .dark-version .reviews-container .rev-thumb {
+        position: relative;
+        width: 100px;
+        height: 85px;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+    .dark-version .sub-rev-box.depth-3 {
+        margin-left: 0px;
+    }
+    .dark-version .post-section {
+        padding-top: 10px;
+    }
+    .dark-version h2 .space-letter {
+        letter-spacing: 0;
+    }
+    .dark-version .accordion {
+        font-size: 17px;
+    }
+    .dark-version button.accordion:after {
+        margin-top: 0px;
+        margin-right: -20px;
+    }
+    .dark-version .gellry-box {
+        float: left;
+    }
+    .dark-version .headding-size {
+        font-size: 24px;
+        text-align: left;
+    }
+    .dark-version .sidebar-section {
+        padding-top: 100px;
+    }
+    .dark-version .blok-griad-section ul.blog-tect-sec li {
+        font-size: 12px;
+    }
+    .dark-version .pagination-box.text-right {
+        padding-bottom: 0;
+    }
+    .dark-version .navbar.navbar-bg-dark .navbar-nav > li > a,
+    .dark-version .dropdown-menu li a {
+        color: #fff;
+    }
+    .dark-version .slider-box1 {
+        text-align: center;
+    }
+    .dark-version .baner-boxes {
+        margin-top: 30px;
+    }
+    .dark-version .baner-boxes img {
+        width: 100%;
+    }
+    .dark-version .navbar-nav .open .dropdown-menu .dropdown-header,
+    .navbar-nav .open .dropdown-menu>li>a {
+        padding: 7px 16px;
+    }
+    .dark-version .half-height {
+        height: 100%;
+    }
+    .dark-version .servies-box-sec {
+        padding-bottom: 100px;
+    }
+    .dark-version button.accordion {
+        font-size: 19px;
+    }
+    .dark-version .dropdown-menu li .dropdown-menu {
+        margin-top: -0px !important;
+        margin-right: 0 !important;
+        left: 0% !important;
+    }
+}
+/*
+========================================
+768 to 991 responsive css
+========================================
+*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .dark-version .navbar-brand > img {
+        float: left;
+    }
+    .dark-version .navbar-header {
+        float: left;
+    }
+    .dark-version .navbar-collapse {
+        float: right;
+        margin-top: -4px;
+    }
+    .dark-version .slider-section-1 {
+        top: 45%;
+    }
+    .dark-version .main-slider-heading h1 {
+        font-size: 25px;
+    }
+    .dark-version .slider-section-1-text p {
+        font-size: 14px;
+        text-align: center;
+    }
+   
+    .dark-version .abouts-image img {
+        width: 100%;
+    }
+    .dark-version .about-box {
+        padding-top: 20px;
+    }
+    .dark-version section.slider-section .owl-theme .owl-nav.disabled + .owl-dots {
+        bottom: 5px;
+    }
+    .dark-version .mixi-btn a {
+        margin-left: 0;
+        display: inline-block;
+        padding-left: 17px;
+    }
+    .dark-version .gellry-box {
+        float: left;
+    }
+    .dark-version h1.banner-text1 {
+        font-size: 30px;
+        margin-top: 0px;
+    }
+    .dark-version .heading-box {
+        padding-top: 243px;
+    }
+    .dark-version .service-box1 {
+        padding: 0px;
+    }
+    .dark-version .service-box1 p {
+        font-size: 15px;
+        padding: 0 20px;
+    }
+    .dark-version .box-caption h3 a {
+        font-size: 20px;
+    }
+    .dark-version .slider-box1 {
+        text-align: center;
+    }
+    .dark-version h1.banner-text {
+        font-size: 30px;
+    }
+    .dark-version .testi-boxs {
+        padding-top: 50px;
+    }
+    .dark-version .test-text-box {
+        margin-bottom: 50px;
+    }
+    .dark-version ul.blog-tect-sec li {
+        font-size: 12px;
+        display: inline-block;
+        padding-right: 5px;
+        padding: 0;
+    }
+    .dark-version .paragraph-box {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .dark-version .price-btn {
+        margin-bottom: 30px;
+    }
+    .dark-version .post-sec h3 a {
+        font-size: 23px;
+    }
+    .dark-version ul.blog-tect-sec {
+        padding-top: 0;
+        text-align: left;
+    }
+    .dark-version .post-sec p {
+        padding-top: 0px;
+    }
+    .dark-version ul.blog-tect-sec li {
+        font-size: 12px;
+        padding-right: 7px;
+        padding-bottom: 5px;
+    }
+    .dark-version .main-slider-heading h1 {
+        font-size: 30px;
+    }
+}
+/*
+========================================
+992 to 1024 responsive css
+========================================
+*/
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+    .dark-version .slider-section-1 {
+        width: 100%;
+        position: absolute;
+        top: 45%;
+    }
+    .dark-version .mixi-btn a {
+        font-size: 16px;
+        margin-left: 0;
+        display: inline-block;
+        padding-left: 15px;
+    }
+    .dark-version h1.banner-text1 {
+        font-size: 46px;
+        margin-top: -10px;
+    }
+    .dark-version h1.banner-text {
+        font-size: 45px;
+    }
+    .dark-version a.itg-button.banner {
+        float: right;
+        margin-top: 42px;
+    }
+    .dark-version .paragraph-box {
+        margin-bottom: 50px;
+    }
+    .dark-version ul.blog-tect-sec li {
+        font-size: 12px;
+        display: inline-block;
+        padding-right: 2px;
+    }
+    .dark-version .sing-box p {
+        font-size: 13px;
+        color: #ffffff;
+        margin-bottom: 0;
+        margin-top: 0px;
+    }
+    .dark-version span.footer-box1-text {
+        font-size: 15px;
+    }
+    .dark-version ul.blog-tect-sec li a span {
+        padding-right: 5px;
+        padding-left: 2px;
+    }
+}
+/*
+========================================
+992 to 1024 responsive css
+========================================
+*/
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .dark-version .footer-box h3 {
+        font-size: 21px;
+    }
+    .dark-version .slider-section-1 {
+        width: 100%;
+        position: absolute;
+        top: 40%;
+    }
+}

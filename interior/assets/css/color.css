@@ -1,0 +1,62 @@
+/*
+========================================
+hover css
+========================================
+*/
+
+.dark-version .top-header ul li a:hover,
+.dark-version ul.footer-3-ul li a:hover,
+.dark-version .heading-color,
+.dark-version .box-caption h3 a:hover,
+.dark-version .testi-boxs:hover .test-text-box h3 a,
+.dark-version .post-sec h3 a:hover,
+.dark-version ul.blog-tect-sec li a:hover,
+.dark-version ul.list li a:hover,
+.dark-version .post-section a:hover,
+.dark-version .blok-list-section h3 a:hover,
+.dark-version .img-text a:hover,
+.post-section h5 a:hover,
+.dark-version ul.nav.navbar-nav li .dropdown-menu a:hover,
+.dark-version .box-caption p,
+.dark-version button.accordion.active,
+.dark-version button.accordion.active:after,
+.dark-version .yellow,
+.dark-version .mixi-btn a.view-cor,
+.dark-version ul.blog-tect-sec li a span:hover,
+.dark-version a.read-btn:hover,
+.dark-version i.footer-icon,
+.dark-version .footer-color,
+.dark-version .boxs-404 h2,
+.dark-version .blog-codes-sectiopn i,
+.dark-version p.star-blog i,
+a.filter.tag.active,
+.dark-version ul.nav.navbar-nav.sm li a:hover, .dark-version a.poast-text {
+    color: #e4a62b;
+}
+.dark-version .pricing-boxes:hover,
+.dark-version .testi-boxs:hover,
+.dark-version .facts:hover,
+.dark-version button.accordion.active,
+.dark-version .pagination-box span,
+.dark-version .owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    border: 1px solid #e4a62b;
+}
+.dark-version .itg-button:hover {
+    color: #fff;
+    background-color: #e4a62b;
+}
+.dark-version .service-box1:hover,
+.dark-version .pricing-boxes:hover .months-box,
+.dark-version .pricing-boxes:hover a.itg-button,
+.dark-version .pagination-box span:hover,
+.dark-version .facts:hover,
+button.button-style:hover,
+.dark-version .new-letter-section,
+.dark-version .owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span,
+.dark-version .baneer-desing,
+.dark-version ul.icon-hover li:hover {
+    background-color: #e4a62b;
+}
+/*
