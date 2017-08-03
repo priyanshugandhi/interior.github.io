@@ -16,7 +16,7 @@ Interrio – Corporate Architecture and Interior Design, Responsive Html5 Templa
 11. Modern Cross Browser Support
 12. W3C Validated Code
 
-# You should find the following HTML files in the version of HTML:
+# You should find the following HTML files:
 1. 404-page
 2. about-page
 3. blog-detail-no-sidebar
